@@ -6,3 +6,5 @@ Bilgisayar rastgele bir sayı seçer.
 Kullanıcı bu sayıyı tahmin etmeye çalışır.
 Her tahminde, bilgisayar doğru sayıya yaklaşmak için "daha büyük" veya "daha küçük" ipucu verir.
 Oyun, kullanıcı doğru sayıyı tahmin ettiğinde sona erer.
+// Copyright (c) 2024 VeyselCavdar
+// Bu yazılım MIT Lisansı altında lisanslanmıştır.
